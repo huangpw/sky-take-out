@@ -8,6 +8,10 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
+/**
+ * 员工表
+ * @author AlbertHPW
+ */
 @Data
 @Builder
 @NoArgsConstructor
